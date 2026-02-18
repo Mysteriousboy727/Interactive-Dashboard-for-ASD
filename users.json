@@ -1,0 +1,22 @@
+{
+  "parent1": {
+    "password_hash": "82e3edf5f5f3a46b5f94579b61817fd9a1f356adcef5ee22da3b96ef775c4860",
+    "role": "parent",
+    "name": "Parent 1"
+  },
+  "parent2": {
+    "password_hash": "82e3edf5f5f3a46b5f94579b61817fd9a1f356adcef5ee22da3b96ef775c4860",
+    "role": "parent",
+    "name": "Parent 2"
+  },
+  "doctor1": {
+    "password_hash": "f348d5628621f3d8f59c8cabda0f8eb0aa7e0514a90be7571020b1336f26c113",
+    "role": "doctor",
+    "name": "Dr. Smith"
+  },
+  "doctor2": {
+    "password_hash": "f348d5628621f3d8f59c8cabda0f8eb0aa7e0514a90be7571020b1336f26c113",
+    "role": "doctor",
+    "name": "Dr. Johnson"
+  }
+}
